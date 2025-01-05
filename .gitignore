@@ -1,0 +1,14 @@
+# Python-specific files
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# Environment folder
+venv/
+env/
+
+# IDE and OS files
+.vscode/
+.idea/
+*.log
+*.DS_Store
